@@ -1,6 +1,6 @@
 # Crypto Stop-Loss & Take-Profit Optimizer
 
-## Finding the Best Stop-Loss & Take-Profit Levels for BTC Perpetuals
+## Finding the Best Stop-Loss & Take-Profit Levels for BTC Perpetuals/Crypto
 
 ### Overview
 This project is designed to backtest various stop-loss and take-profit percentages for BTC/USDT perpetual futures on Binance. Using historical data and an RSI-based strategy, it determines the best risk management levels for optimal profitability.
@@ -136,11 +136,17 @@ plt.show()
 
 ### Results Example
 ```
-Best Stop Loss: 2.50%
-Best Take Profit: 7.00%
-Best Total Return: 150.32%
+Total rows fetched: 26430
+Best Stop Loss: 4.20%
+Best Take Profit: 6.30%
+Best Total Return: 30.32%
+![Figure_1](https://github.com/user-attachments/assets/1aead523-2758-48a5-9fb8-fd848ad25908)
+this shows the best stop loss and take profit for btc perpetuals for 1 month you can change the asset from btc to your desired and change the time frame and rsi upper and lower limit and experiment with it to determine the best value.
 ```
-This means setting SL at 2.5% and TP at 7% would have yielded the highest return based on historical data.
+This means setting SL at 4.2% and TP at 6.3% would have yielded the highest return based on historical data.
+###Disclaimer
+
+This project is intended for educational and informational purposes only. Trading cryptocurrencies involves significant risk, and past performance is not indicative of future results. The author of this repository is not responsible for any financial losses incurred while using this code. Use at your own risk.
 
 ### License
 This project is open-source under the MIT License.
