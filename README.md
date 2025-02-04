@@ -1,4 +1,3 @@
-# crypto-stoploss-takeprofit-optimizer
 # Crypto Stop-Loss & Take-Profit Optimizer
 
 ## Finding the Best Stop-Loss & Take-Profit Levels for BTC Perpetuals
