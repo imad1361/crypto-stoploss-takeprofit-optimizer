@@ -133,6 +133,7 @@ plt.ylabel('Take Profit (%)')
 plt.grid()
 plt.show()
 ```
+![Image](https://github.com/user-attachments/assets/f6183c57-fc88-4797-a23d-cf6c76ca1c9f)
 
 ### Results Example
 ```
@@ -142,8 +143,6 @@ Best Take Profit: 6.30%
 Best Total Return: 30.32%
 
 ### Result Visualization
-
-![Strategy Visualization](https://github.com/user-attachments/assets/1aead523-2758-48a5-9fb8-fd848ad25908)
 
 This shows the best stop loss and take profit for BTC perpetuals for 1 month.  
 You can change the asset from BTC to your desired one, modify the time frame,  
