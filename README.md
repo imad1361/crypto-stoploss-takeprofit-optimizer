@@ -140,11 +140,17 @@ Total rows fetched: 26430
 Best Stop Loss: 4.20%
 Best Take Profit: 6.30%
 Best Total Return: 30.32%
-![Figure_1](https://github.com/user-attachments/assets/1aead523-2758-48a5-9fb8-fd848ad25908)
-this shows the best stop loss and take profit for btc perpetuals for 1 month you can change the asset from btc to your desired and change the time frame and rsi upper and lower limit and experiment with it to determine the best value.
-```
+
+### Result Visualization
+
+![Strategy Visualization](https://github.com/user-attachments/assets/1aead523-2758-48a5-9fb8-fd848ad25908)
+
+This shows the best stop loss and take profit for BTC perpetuals for 1 month.  
+You can change the asset from BTC to your desired one, modify the time frame,  
+and adjust the RSI upper and lower limits to experiment with different values and optimize the strategy.
+
 This means setting SL at 4.2% and TP at 6.3% would have yielded the highest return based on historical data.
-###Disclaimer
+### Disclaimer
 
 This project is intended for educational and informational purposes only. Trading cryptocurrencies involves significant risk, and past performance is not indicative of future results. The author of this repository is not responsible for any financial losses incurred while using this code. Use at your own risk.
 
