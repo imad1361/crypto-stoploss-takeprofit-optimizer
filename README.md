@@ -134,14 +134,15 @@ plt.grid()
 plt.show()
 ```
 ![Image](https://github.com/user-attachments/assets/f6183c57-fc88-4797-a23d-cf6c76ca1c9f)
-
+1 month
+![Figure_1](https://github.com/user-attachments/assets/2c64787f-e193-48fe-ae6a-81b6f46f3c19)
+3 months
 ### Results Example
 ```
-Total rows fetched: 26430
-Best Stop Loss: 4.20%
-Best Take Profit: 6.30%
-Best Total Return: 30.32%
-
+Best Stop Loss: 3.20%
+Best Take Profit: 9.90%
+Best Total Return: 60.32%
+for image 2 -- 3 months on btc perpetuals
 ### Result Visualization
 
 This shows the best stop loss and take profit for BTC perpetuals for 1 month.  
